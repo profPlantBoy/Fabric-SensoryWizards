@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "sensory-wizards",
+	"version": "${version}",
+	"name": "Sensory Wizards",
+	"description": "A magic mod reinvented for wizardry!",
+	"authors": [
+		"ProfPlantBoy"
+	],
+	"contact": {
+		"homepage": "A WEBSITE OF MY OWN GOES HERE",
+		"sources": "MY GITHUB LINK HERE"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/sensory-wizards/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.profplantboy.sensorywizards.SensoryWizards"
+		],
+		"fabric-datagen": [
+			"net.profplantboy.sensorywizards.SensoryWizardsDataGenerator"
+		],
+      "client": [
+        "net.profplantboy.sensorywizards.SensoryWizardsClient"
+      ]
+	},
+	"mixins": [
+		"sensory-wizards.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
