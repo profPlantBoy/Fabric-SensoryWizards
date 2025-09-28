@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "sensorywizards:stripped_willow_log_block"
+    }
+  ],
+  "result": {
+    "id": "sensorywizards:willow_planks",
+    "count": 4
+  }
+}

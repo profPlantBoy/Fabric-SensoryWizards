@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "sensorywizards:stripped_yew_log_block"
+    }
+  ],
+  "result": {
+    "id": "sensorywizards:yew_planks",
+    "count": 4
+  }
+}

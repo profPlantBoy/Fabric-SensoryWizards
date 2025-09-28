@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "sensorywizards:ash_log_block"
+    }
+  ],
+  "result": {
+    "id": "sensorywizards:ash_planks",
+    "count": 4
+  }
+}

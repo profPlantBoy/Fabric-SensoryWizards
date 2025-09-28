@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "sensorywizards:stripped_hawthorne_log_block"
+    }
+  ],
+  "result": {
+    "id": "sensorywizards:hawthorne_planks",
+    "count": 4
+  }
+}
