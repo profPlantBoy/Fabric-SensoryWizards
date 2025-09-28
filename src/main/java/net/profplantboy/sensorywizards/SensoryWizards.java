@@ -3,6 +3,7 @@ package net.profplantboy.sensorywizards;
 import net.fabricmc.api.ModInitializer;
 
 import net.profplantboy.sensorywizards.Block.ModBlocks;
+import net.profplantboy.sensorywizards.item.ModItemGroups;
 import net.profplantboy.sensorywizards.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -14,6 +15,7 @@ public class SensoryWizards implements ModInitializer {
 	@Override
 	public void onInitialize() {
 // WHEN YOU MAKE A NEW JAVA CLASS YOU NEED TO ADD IT HERE TO REGISTER IT
+        ModItemGroups.registerItemGroups();
         ModItems.registerModItems();
         ModBlocks.registerModBlocks();
 

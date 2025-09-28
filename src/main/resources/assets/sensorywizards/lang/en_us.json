@@ -23,5 +23,6 @@
   "block.sensorywizards.mahogany_planks": "Mahogany Planks",
   "block.sensorywizards.yew_planks": "Yew Planks",
   "block.sensorywizards.willow_planks": "Willow Planks",
-  "block.sensorywizards.hawthorne_planks": "Hawthorne Planks"
+  "block.sensorywizards.hawthorne_planks": "Hawthorne Planks",
+  "itemgroup.sensorywizards.sensory_wizards_main": "Sensory Wizards"
 }
