@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": { "model": "sensorywizards:block/stripped_maple_log_block" },
+    "axis=x": { "model": "sensorywizards:block/stripped_maple_log_block", "x": 90, "y": 90 },
+    "axis=z": { "model": "sensorywizards:block/stripped_maple_log_block", "x": 90 }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": { "model": "sensorywizards:block/hawthorne_log_block" },
+    "axis=x": { "model": "sensorywizards:block/hawthorne_log_block", "x": 90, "y": 90 },
+    "axis=z": { "model": "sensorywizards:block/hawthorne_log_block", "x": 90 }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "sensorywizards:block/walnut_log",
+    "end": "sensorywizards:block/walnut_log_top"
+  }
+}

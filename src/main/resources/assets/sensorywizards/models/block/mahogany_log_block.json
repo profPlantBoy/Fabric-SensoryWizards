@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "sensorywizards:block/mahogany_log",
+    "end": "sensorywizards:block/mahogany_log_top"
+  }
+}

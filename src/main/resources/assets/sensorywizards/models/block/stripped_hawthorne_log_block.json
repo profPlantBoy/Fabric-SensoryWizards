@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "sensorywizards:block/stripped_hawthorne_log",
+    "end": "sensorywizards:block/stripped_hawthorne_log_top"
+  }
+}

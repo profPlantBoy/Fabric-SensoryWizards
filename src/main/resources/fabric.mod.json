@@ -12,7 +12,7 @@
 		"sources": "MY GITHUB LINK HERE"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/sensory-wizards/icon.png",
+	"icon": "assets/sensorywizards/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
