@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "sensorywizards:block/maple_planks",
+    "top": "sensorywizards:block/maple_planks",
+    "side": "sensorywizards:block/maple_planks"
+  }
+}

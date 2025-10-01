@@ -1,0 +1,10 @@
+{ "replace": false, "values": [
+  "sensorywizards:maple_log","sensorywizards:stripped_maple_log",
+  "sensorywizards:ash_log","sensorywizards:stripped_ash_log",
+  "sensorywizards:walnut_log","sensorywizards:stripped_walnut_log",
+  "sensorywizards:beech_log","sensorywizards:stripped_beech_log",
+  "sensorywizards:mahogany_log","sensorywizards:stripped_mahogany_log",
+  "sensorywizards:yew_log","sensorywizards:stripped_yew_log",
+  "sensorywizards:willow_log","sensorywizards:stripped_willow_log",
+  "sensorywizards:hawthorne_log","sensorywizards:stripped_hawthorne_log"
+]}

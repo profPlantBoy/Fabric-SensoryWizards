@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "sensorywizards:block/hawthorne_planks",
+    "top":    "sensorywizards:block/hawthorne_planks",
+    "side":   "sensorywizards:block/hawthorne_planks"
+  }
+}

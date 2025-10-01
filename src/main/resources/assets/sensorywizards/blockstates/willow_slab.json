@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "sensorywizards:block/willow_slab" },
+    "type=top":    { "model": "sensorywizards:block/willow_slab_top" },
+    "type=double": { "model": "sensorywizards:block/willow_planks", "uvlock": true }
+  }
+}

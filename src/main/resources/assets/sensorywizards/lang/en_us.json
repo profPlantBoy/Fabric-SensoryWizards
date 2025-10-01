@@ -24,5 +24,21 @@
   "block.sensorywizards.yew_planks": "Yew Planks",
   "block.sensorywizards.willow_planks": "Willow Planks",
   "block.sensorywizards.hawthorne_planks": "Hawthorne Planks",
-  "itemgroup.sensorywizards.sensory_wizards_main": "Sensory Wizards"
+  "itemgroup.sensorywizards.sensory_wizards_main": "Sensory Wizards",
+  "block.sensorywizards.maple_stairs": "Maple Stairs",
+  "block.sensorywizards.ash_stairs": "Ash Stairs",
+  "block.sensorywizards.walnut_stairs": "Walnut Stairs",
+  "block.sensorywizards.beech_stairs": "Beech Stairs",
+  "block.sensorywizards.mahogany_stairs": "Mahogany Stairs",
+  "block.sensorywizards.yew_stairs": "Yew Stairs",
+  "block.sensorywizards.willow_stairs": "Willow Stairs",
+  "block.sensorywizards.hawthorne_stairs": "Hawthorne Stairs",
+  "block.sensorywizards.maple_slab": "Maple Slab",
+  "block.sensorywizards.ash_slab": "Ash Slab",
+  "block.sensorywizards.walnut_slab": "Walnut Slab",
+  "block.sensorywizards.beech_slab": "Beech Slab",
+  "block.sensorywizards.mahogany_slab": "Mahogany Slab",
+  "block.sensorywizards.yew_slab": "Yew Slab",
+  "block.sensorywizards.willow_slab": "Willow Slab",
+  "block.sensorywizards.hawthorne_slab": "Hawthorne Slab"
 }

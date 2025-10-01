@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "sensorywizards:block/beech_slab" },
+    "type=top":    { "model": "sensorywizards:block/beech_slab_top" },
+    "type=double": { "model": "sensorywizards:block/beech_planks", "uvlock": true }
+  }
+}

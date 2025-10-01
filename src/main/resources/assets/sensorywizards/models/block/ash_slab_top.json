@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "sensorywizards:block/ash_planks",
+    "top":    "sensorywizards:block/ash_planks",
+    "side":   "sensorywizards:block/ash_planks"
+  }
+}

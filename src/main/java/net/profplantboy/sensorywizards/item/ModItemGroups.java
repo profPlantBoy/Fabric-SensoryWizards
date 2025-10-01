@@ -43,6 +43,14 @@ public class ModItemGroups {
                         entries.add(ModBlocks.YEW_PLANKS);
                         entries.add(ModBlocks.WILLOW_PLANKS);
                         entries.add(ModBlocks.HAWTHORNE_PLANKS);
+                        entries.add(ModBlocks.MAPLE_STAIRS);
+                        entries.add(ModBlocks.ASH_STAIRS);
+                        entries.add(ModBlocks.WALNUT_STAIRS);
+                        entries.add(ModBlocks.BEECH_STAIRS);
+                        entries.add(ModBlocks.MAHOGANY_STAIRS);
+                        entries.add(ModBlocks.YEW_STAIRS);
+                        entries.add(ModBlocks.WILLOW_STAIRS);
+                        entries.add(ModBlocks.HAWTHORNE_STAIRS);
 
                     }).build());
 

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "sensorywizards:block/hawthorne_slab" },
+    "type=top":    { "model": "sensorywizards:block/hawthorne_slab_top" },
+    "type=double": { "model": "sensorywizards:block/hawthorne_planks", "uvlock": true }
+  }
+}

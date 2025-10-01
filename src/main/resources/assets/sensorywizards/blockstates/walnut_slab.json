@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "sensorywizards:block/walnut_slab" },
+    "type=top":    { "model": "sensorywizards:block/walnut_slab_top" },
+    "type=double": { "model": "sensorywizards:block/walnut_planks", "uvlock": true }
+  }
+}

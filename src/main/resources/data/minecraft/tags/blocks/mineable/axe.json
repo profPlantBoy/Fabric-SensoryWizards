@@ -1,0 +1,52 @@
+{
+  "replace": false,
+  "values": [
+    "sensorywizards:maple_planks",
+    "sensorywizards:maple_log",
+    "sensorywizards:stripped_maple_log",
+    "sensorywizards:maple_stairs",
+    "sensorywizards:maple_slab",
+
+    "sensorywizards:ash_planks",
+    "sensorywizards:ash_log",
+    "sensorywizards:stripped_ash_log",
+    "sensorywizards:ash_stairs",
+    "sensorywizards:ash_slab",
+
+    "sensorywizards:walnut_planks",
+    "sensorywizards:walnut_log",
+    "sensorywizards:stripped_walnut_log",
+    "sensorywizards:walnut_stairs",
+    "sensorywizards:walnut_slab",
+
+    "sensorywizards:beech_planks",
+    "sensorywizards:beech_log",
+    "sensorywizards:stripped_beech_log",
+    "sensorywizards:beech_stairs",
+    "sensorywizards:beech_slab",
+
+    "sensorywizards:mahogany_planks",
+    "sensorywizards:mahogany_log",
+    "sensorywizards:stripped_mahogany_log",
+    "sensorywizards:mahogany_stairs",
+    "sensorywizards:mahogany_slab",
+
+    "sensorywizards:yew_planks",
+    "sensorywizards:yew_log",
+    "sensorywizards:stripped_yew_log",
+    "sensorywizards:yew_stairs",
+    "sensorywizards:yew_slab",
+
+    "sensorywizards:willow_planks",
+    "sensorywizards:willow_log",
+    "sensorywizards:stripped_willow_log",
+    "sensorywizards:willow_stairs",
+    "sensorywizards:willow_slab",
+
+    "sensorywizards:hawthorne_planks",
+    "sensorywizards:hawthorne_log",
+    "sensorywizards:stripped_hawthorne_log",
+    "sensorywizards:hawthorne_stairs",
+    "sensorywizards:hawthorne_slab"
+  ]
+}

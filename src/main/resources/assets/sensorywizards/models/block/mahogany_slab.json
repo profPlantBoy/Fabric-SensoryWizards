@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "sensorywizards:block/mahogany_planks",
+    "top":    "sensorywizards:block/mahogany_planks",
+    "side":   "sensorywizards:block/mahogany_planks"
+  }
+}

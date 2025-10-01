@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "sensorywizards:block/maple_slab" },
+    "type=top":    { "model": "sensorywizards:block/maple_slab_top" },
+    "type=double": { "model": "sensorywizards:block/maple_planks", "uvlock": true }
+  }
+}

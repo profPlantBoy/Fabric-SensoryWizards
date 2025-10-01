@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "sensorywizards:maple_slab",
+    "sensorywizards:ash_slab",
+    "sensorywizards:walnut_slab",
+    "sensorywizards:beech_slab",
+    "sensorywizards:mahogany_slab",
+    "sensorywizards:yew_slab",
+    "sensorywizards:willow_slab",
+    "sensorywizards:hawthorne_slab"
+  ]
+}

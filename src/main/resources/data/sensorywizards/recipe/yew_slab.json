@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [ "###" ],
+  "key": { "#": { "item": "sensorywizards:yew_planks" } },
+  "result": { "item": "sensorywizards:yew_slab", "count": 6 }
+}

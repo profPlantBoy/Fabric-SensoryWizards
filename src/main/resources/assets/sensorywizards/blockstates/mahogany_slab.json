@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "sensorywizards:block/mahogany_slab" },
+    "type=top":    { "model": "sensorywizards:block/mahogany_slab_top" },
+    "type=double": { "model": "sensorywizards:block/mahogany_planks", "uvlock": true }
+  }
+}
