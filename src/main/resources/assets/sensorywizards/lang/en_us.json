@@ -40,5 +40,21 @@
   "block.sensorywizards.mahogany_slab": "Mahogany Slab",
   "block.sensorywizards.yew_slab": "Yew Slab",
   "block.sensorywizards.willow_slab": "Willow Slab",
-  "block.sensorywizards.hawthorne_slab": "Hawthorne Slab"
+  "block.sensorywizards.hawthorne_slab": "Hawthorne Slab",
+  "block.sensorywizards.maple_button": "Maple Button",
+  "block.sensorywizards.maple_pressure_plate": "Maple Pressure Plate",
+  "block.sensorywizards.ash_button": "Ash Button",
+  "block.sensorywizards.ash_pressure_plate": "Ash Pressure Plate",
+  "block.sensorywizards.walnut_button": "Walnut Button",
+  "block.sensorywizards.walnut_pressure_plate": "Walnut Pressure Plate",
+  "block.sensorywizards.beech_button": "Beech Button",
+  "block.sensorywizards.beech_pressure_plate": "Beech Pressure Plate",
+  "block.sensorywizards.mahogany_button": "Mahogany Button",
+  "block.sensorywizards.mahogany_pressure_plate": "Mahogany Pressure Plate",
+  "block.sensorywizards.yew_button": "Yew Button",
+  "block.sensorywizards.yew_pressure_plate": "Yew Pressure Plate",
+  "block.sensorywizards.willow_button": "Willow Button",
+  "block.sensorywizards.willow_pressure_plate": "Willow Pressure Plate",
+  "block.sensorywizards.hawthorne_button": "Hawthorne Button",
+  "block.sensorywizards.hawthorne_pressure_plate": "Hawthorne Pressure Plate"
 }

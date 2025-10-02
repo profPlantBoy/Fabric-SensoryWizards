@@ -1,6 +1,16 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": [ "###" ],
-  "key": { "#": { "item": "sensorywizards:beech_planks" } },
-  "result": { "item": "sensorywizards:beech_slab", "count": 6 }
+
+  "key": {
+    "#": {
+      "item": "sensorywizards:beech_planks"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "sensorywizards:beech_slab"
+  }
 }

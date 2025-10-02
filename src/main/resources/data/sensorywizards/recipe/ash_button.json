@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients": [
+    {
+      "item": "sensorywizards:ash_planks"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "sensorywizards:ash_button"
+  }
+}

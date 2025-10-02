@@ -1,6 +1,16 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": [ "###" ],
-  "key": { "#": { "item": "sensorywizards:maple_planks" } },
-  "result": { "item": "sensorywizards:maple_slab", "count": 6 }
+
+  "key": {
+    "#": {
+      "item": "sensorywizards:maple_planks"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "sensorywizards:maple_slab"
+  }
 }

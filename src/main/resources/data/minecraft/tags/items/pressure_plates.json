@@ -1,0 +1,12 @@
+{ "replace": false, "values": [
+
+  "sensorywizards:maple_pressure_plate",
+  "sensorywizards:ash_pressure_plate",
+  "sensorywizards:walnut_pressure_plate",
+  "sensorywizards:beech_pressure_plate",
+  "sensorywizards:mahogany_pressure_plate",
+  "sensorywizards:yew_pressure_plate",
+  "sensorywizards:willow_pressure_plate",
+  "sensorywizards:hawthorne_pressure_plate"
+
+] }

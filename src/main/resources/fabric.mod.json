@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "sensory-wizards",
+	"id": "sensorywizards",
 	"version": "${version}",
 	"name": "Sensory Wizards",
 	"description": "A magic mod reinvented for wizardry!",
@@ -26,7 +26,7 @@
       ]
 	},
 	"mixins": [
-		"sensory-wizards.mixins.json"
+      "sensorywizards.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.17.2",

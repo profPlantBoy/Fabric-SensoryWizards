@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients": [
+    {
+      "item": "sensorywizards:maple_planks"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "sensorywizards:maple_button"
+  }
+}

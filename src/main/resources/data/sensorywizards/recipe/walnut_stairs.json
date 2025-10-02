@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "key": {
+    "#": {
+      "item": "sensorywizards:walnut_planks"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "sensorywizards:walnut_stairs"
+  }
+}

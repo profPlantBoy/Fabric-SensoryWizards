@@ -1,0 +1,12 @@
+{ "replace": false, "values": [
+
+  "sensorywizards:maple_button",
+  "sensorywizards:ash_button",
+  "sensorywizards:walnut_button",
+  "sensorywizards:beech_button",
+  "sensorywizards:mahogany_button",
+  "sensorywizards:yew_button",
+  "sensorywizards:willow_button",
+  "sensorywizards:hawthorne_button"
+
+] }

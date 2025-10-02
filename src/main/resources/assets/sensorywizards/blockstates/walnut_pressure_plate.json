@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "sensorywizards:block/walnut_pressure_plate_up" },
+    "powered=true":  { "model": "sensorywizards:block/walnut_pressure_plate_down" }
+  }
+}

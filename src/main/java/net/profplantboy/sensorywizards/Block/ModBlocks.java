@@ -33,8 +33,12 @@ public class ModBlocks {
                     AbstractBlock.Settings.create().strength(2.0f, 3.0f).sounds(BlockSoundGroup.WOOD)));
     public static final Block MAPLE_SLAB = registerBlock("maple_slab",
             new SlabBlock(AbstractBlock.Settings.create().strength(2.0f, 3.0f).sounds(BlockSoundGroup.WOOD)));
-
-
+    public static final Block MAPLE_BUTTON = registerBlock("maple_button",
+            new ButtonBlock(BlockSetType.OAK, 30, AbstractBlock.Settings.create().noCollision().strength(0.5f)
+                    .sounds(BlockSoundGroup.WOOD)));
+    public static final Block MAPLE_PRESSURE_PLATE = registerBlock("maple_pressure_plate",
+            new PressurePlateBlock(BlockSetType.OAK,
+                    AbstractBlock.Settings.create().noCollision().strength(0.5f).sounds(BlockSoundGroup.WOOD)));
 
 
     public static final Block ASH_LOG_BLOCK = registerBlock("ash_log_block",
@@ -48,8 +52,12 @@ public class ModBlocks {
                     AbstractBlock.Settings.create().strength(2.0f, 3.0f).sounds(BlockSoundGroup.WOOD)));
     public static final Block ASH_SLAB = registerBlock("ash_slab",
             new SlabBlock(AbstractBlock.Settings.create().strength(2.0f, 3.0f).sounds(BlockSoundGroup.WOOD)));
-
-
+    public static final Block ASH_BUTTON = registerBlock("ash_button",
+            new ButtonBlock(BlockSetType.OAK, 30, AbstractBlock.Settings.create().noCollision().strength(0.5f)
+                    .sounds(BlockSoundGroup.WOOD)));
+    public static final Block ASH_PRESSURE_PLATE = registerBlock("ash_pressure_plate",
+            new PressurePlateBlock(BlockSetType.OAK,
+                    AbstractBlock.Settings.create().noCollision().strength(0.5f).sounds(BlockSoundGroup.WOOD)));
 
 
 
@@ -64,8 +72,12 @@ public class ModBlocks {
                     AbstractBlock.Settings.create().strength(2.0f, 3.0f).sounds(BlockSoundGroup.WOOD)));
     public static final Block WALNUT_SLAB = registerBlock("walnut_slab",
             new SlabBlock(AbstractBlock.Settings.create().strength(2.0f, 3.0f).sounds(BlockSoundGroup.WOOD)));
-
-
+    public static final Block WALNUT_BUTTON = registerBlock("walnut_button",
+            new ButtonBlock(BlockSetType.OAK, 30, AbstractBlock.Settings.create().noCollision().strength(0.5f)
+                    .sounds(BlockSoundGroup.WOOD)));
+    public static final Block WALNUT_PRESSURE_PLATE = registerBlock("walnut_pressure_plate",
+            new PressurePlateBlock(BlockSetType.OAK,
+                    AbstractBlock.Settings.create().noCollision().strength(0.5f).sounds(BlockSoundGroup.WOOD)));
 
 
 
@@ -80,8 +92,12 @@ public class ModBlocks {
                     AbstractBlock.Settings.create().strength(2.0f, 3.0f).sounds(BlockSoundGroup.WOOD)));
     public static final Block BEECH_SLAB = registerBlock("beech_slab",
             new SlabBlock(AbstractBlock.Settings.create().strength(2.0f, 3.0f).sounds(BlockSoundGroup.WOOD)));
-
-
+    public static final Block BEECH_BUTTON = registerBlock("beech_button",
+            new ButtonBlock(BlockSetType.OAK, 30, AbstractBlock.Settings.create().noCollision().strength(0.5f)
+                    .sounds(BlockSoundGroup.WOOD)));
+    public static final Block BEECH_PRESSURE_PLATE = registerBlock("beech_pressure_plate",
+            new PressurePlateBlock(BlockSetType.OAK,
+                    AbstractBlock.Settings.create().noCollision().strength(0.5f).sounds(BlockSoundGroup.WOOD)));
 
 
 
@@ -96,8 +112,12 @@ public class ModBlocks {
                     AbstractBlock.Settings.create().strength(2.0f, 3.0f).sounds(BlockSoundGroup.WOOD)));
     public static final Block MAHOGANY_SLAB = registerBlock("mahogany_slab",
             new SlabBlock(AbstractBlock.Settings.create().strength(2.0f, 3.0f).sounds(BlockSoundGroup.WOOD)));
-
-
+    public static final Block MAHOGANY_BUTTON = registerBlock("mahogany_button",
+            new ButtonBlock(BlockSetType.OAK, 30, AbstractBlock.Settings.create().noCollision().strength(0.5f)
+                    .sounds(BlockSoundGroup.WOOD)));
+    public static final Block MAHOGANY_PRESSURE_PLATE = registerBlock("mahogany_pressure_plate",
+            new PressurePlateBlock(BlockSetType.OAK,
+                    AbstractBlock.Settings.create().noCollision().strength(0.5f).sounds(BlockSoundGroup.WOOD)));
 
 
 
@@ -112,8 +132,12 @@ public class ModBlocks {
                     AbstractBlock.Settings.create().strength(2.0f, 3.0f).sounds(BlockSoundGroup.WOOD)));
     public static final Block YEW_SLAB = registerBlock("yew_slab",
             new SlabBlock(AbstractBlock.Settings.create().strength(2.0f, 3.0f).sounds(BlockSoundGroup.WOOD)));
-
-
+    public static final Block YEW_BUTTON = registerBlock("yew_button",
+            new ButtonBlock(BlockSetType.OAK, 30, AbstractBlock.Settings.create().noCollision().strength(0.5f)
+                    .sounds(BlockSoundGroup.WOOD)));
+    public static final Block YEW_PRESSURE_PLATE = registerBlock("yew_pressure_plate",
+            new PressurePlateBlock(BlockSetType.OAK,
+                    AbstractBlock.Settings.create().noCollision().strength(0.5f).sounds(BlockSoundGroup.WOOD)));
 
 
 
@@ -129,8 +153,12 @@ public class ModBlocks {
                     AbstractBlock.Settings.create().strength(2.0f, 3.0f).sounds(BlockSoundGroup.WOOD)));
     public static final Block WILLOW_SLAB = registerBlock("willow_slab",
             new SlabBlock(AbstractBlock.Settings.create().strength(2.0f, 3.0f).sounds(BlockSoundGroup.WOOD)));
-
-
+    public static final Block WILLOW_BUTTON = registerBlock("willow_button",
+            new ButtonBlock(BlockSetType.OAK, 30, AbstractBlock.Settings.create().noCollision().strength(0.5f)
+                    .sounds(BlockSoundGroup.WOOD)));
+    public static final Block WILLOW_PRESSURE_PLATE = registerBlock("willow_pressure_plate",
+            new PressurePlateBlock(BlockSetType.OAK,
+                    AbstractBlock.Settings.create().noCollision().strength(0.5f).sounds(BlockSoundGroup.WOOD)));
 
 
 
@@ -145,8 +173,12 @@ public class ModBlocks {
                     AbstractBlock.Settings.create().strength(2.0f, 3.0f).sounds(BlockSoundGroup.WOOD)));
     public static final Block HAWTHORNE_SLAB = registerBlock("hawthorne_slab",
             new SlabBlock(AbstractBlock.Settings.create().strength(2.0f, 3.0f).sounds(BlockSoundGroup.WOOD)));
-
-
+    public static final Block HAWTHORNE_BUTTON = registerBlock("hawthorne_button",
+            new ButtonBlock(BlockSetType.OAK, 30, AbstractBlock.Settings.create().noCollision().strength(0.5f)
+                    .sounds(BlockSoundGroup.WOOD)));
+    public static final Block HAWTHORNE_PRESSURE_PLATE = registerBlock("hawthorne_pressure_plate",
+            new PressurePlateBlock(BlockSetType.OAK,
+                    AbstractBlock.Settings.create().noCollision().strength(0.5f).sounds(BlockSoundGroup.WOOD)));
 
 
 
@@ -214,6 +246,23 @@ public class ModBlocks {
             entries.add(ModBlocks.YEW_SLAB);
             entries.add(ModBlocks.WILLOW_SLAB);
             entries.add(ModBlocks.HAWTHORNE_SLAB);
+            entries.add(ModBlocks.MAPLE_LOG_BLOCK);
+            entries.add(ModBlocks.MAPLE_BUTTON);
+            entries.add(ModBlocks.ASH_BUTTON);
+            entries.add(ModBlocks.WALNUT_BUTTON);
+            entries.add(ModBlocks.BEECH_BUTTON);
+            entries.add(ModBlocks.MAHOGANY_BUTTON);
+            entries.add(ModBlocks.YEW_BUTTON);
+            entries.add(ModBlocks.WILLOW_BUTTON);
+            entries.add(ModBlocks.HAWTHORNE_BUTTON);
+            entries.add(ModBlocks.MAPLE_PRESSURE_PLATE);
+            entries.add(ModBlocks.ASH_PRESSURE_PLATE);
+            entries.add(ModBlocks.WALNUT_PRESSURE_PLATE);
+            entries.add(ModBlocks.BEECH_PRESSURE_PLATE);
+            entries.add(ModBlocks.MAHOGANY_PRESSURE_PLATE);
+            entries.add(ModBlocks.YEW_PRESSURE_PLATE);
+            entries.add(ModBlocks.WILLOW_PRESSURE_PLATE);
+            entries.add(ModBlocks.HAWTHORNE_PRESSURE_PLATE);
         });
 
         StrippableBlockRegistry.register(ASH_LOG_BLOCK, STRIPPED_ASH_LOG_BLOCK);

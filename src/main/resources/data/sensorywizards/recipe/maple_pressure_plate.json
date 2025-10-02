@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "key": {
+    "#": {
+      "item": "sensorywizards:maple_planks"
+    }
+  },
+  "pattern": [
+    " ##"
+  ],
+  "result": {
+    "count": 1,
+    "id": "sensorywizards:maple_pressure_plate"
+  }
+}

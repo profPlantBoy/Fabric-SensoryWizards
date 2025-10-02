@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:block/button_inventory",
+  "textures": { "texture": "sensorywizards:block/maple_planks" }
+}
