@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/stairs",
+  "parent": "minecraft:block/inner_stairs",
   "textures": {
     "bottom": "sensorywizards:block/mahogany_planks",
     "top": "sensorywizards:block/mahogany_planks",
